@@ -1,5 +1,8 @@
 # 42_get_next_line
 Get Next Line – Project at 42 school (42 Wolfsburg)
+
+![Bonus Completed](https://img.shields.io/badge/bonus-completed-brightgreen)
+
 <h1 align="center">
 	📄 get_next_line
 </h1>
@@ -21,6 +24,9 @@ Get Next Line – Project at 42 school (42 Wolfsburg)
 ## 💡 About the project
 
 > _get_next_line is an individual project designed to practice file I/O in C by creating a function that reads a file (or any stream) line by line. This function is crucial for projects that need to process input incrementally, and it builds a deeper understanding of buffer management, memory allocation, and efficient reading in C._
+
+#### 🚀 Bonus
+- [x] Multiple file descriptor can be read
 
 For more detailed information, see the [**subject of this project**](https://github.com/jonona912/42_get_next_line/blob/main/get_next_line_subject.pdf).
 
